@@ -32,9 +32,9 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [NODEJS](https://nodejs.org/en/)
 - [REACTJS](https://pt-br.reactjs.org/)
-- [SQLite](https://www.sqlite.org/index.html)
+- [SQLITE](https://www.sqlite.org/index.html)
 - [TYPESCRIPT](https://www.typescriptlang.org/)
 - [LEAFLET](https://leafletjs.com/)
 
